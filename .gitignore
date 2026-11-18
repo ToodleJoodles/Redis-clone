@@ -1,0 +1,17 @@
+# Build directories and binaries
+build/
+bin/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+
+# Persistence runtime dump files
+dump.rdb
+appendonly.aof
+
+# Local development and study notes
+INTERVIEW_PREP.md
+.agy/
+.antigravity/
